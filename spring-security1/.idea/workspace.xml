@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4eaf9087-f5a8-4984-a942-768872a5b2c5" name="Changes" comment="" />
+    <list default="true" id="4eaf9087-f5a8-4984-a942-768872a5b2c5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/springsecurity/config/DemoAppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/springsecurity/config/DemoAppConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/springsecurity/config/DemoSecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/springsecurity/config/DemoSecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/springsecurity/config/MySpringMvcDispatcherServletInitializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/springsecurity/config/MySpringMvcDispatcherServletInitializer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/springsecurity/config/SecurityWebApplicationInitializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/springsecurity/config/SecurityWebApplicationInitializer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/springsecurity/controller/DemoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/springsecurity/controller/DemoController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/springsecurity/controller/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/springsecurity/controller/LoginController.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +26,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2840fi4sKzltOYLysqTRLxC0NDX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,7 +42,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/umaS/IdeaProjects/spring-security1",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/home/umaS/IdeaProjects/spring-mappings/spring-security1",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0"
@@ -74,5 +88,16 @@
       <updated>1650460657264</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
