@@ -1,0 +1,7 @@
+com.lov2code.springdemo.config.DemoAppConfig=org.springframework.stereotype.Component
+com.lov2code.springdemo.daao.CustomerDAO=org.springframework.stereotype.Component
+com.lov2code.springdemo.daao.CustomerDAOImpl=org.springframework.stereotype.Component
+com.lov2code.springdemo.entity.Customer=javax.persistence.Entity,javax.persistence.Table
+com.lov2code.springdemo.rest.CustomerRestController=org.springframework.stereotype.Component
+com.lov2code.springdemo.rest.CustomerRestExceptionHandler=org.springframework.stereotype.Component
+com.lov2code.springdemo.service.CustomerServiceImpl=org.springframework.stereotype.Component
